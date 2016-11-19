@@ -66,6 +66,7 @@ button {
 	border: 0;
 	-webkit-appearance: none;
 	outline: none;
+	cursor: pointer;
 }
 
 button:hover {
